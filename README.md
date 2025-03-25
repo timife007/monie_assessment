@@ -5,8 +5,8 @@ Also, includes the use of Dependency Injection with Dagger Hilt
 
 ## 👨‍💻 App Demo :
 ### Screenshots
-<img src = "https://github.com/user-attachments/assets/477a1d00-f39f-4eab-adad-c6b7085f7870" width=250/>
-<img src = "https://github.com/user-attachments/assets/13a6f5a1-13a0-4e42-abbc-b7ffa50621df" width=250/>
+<img src = "https://github.com/user-attachments/assets/7c6a47eb-f528-4e6e-af0a-5d5fa8756abf" width=250/>
+<img src = "https://github.com/user-attachments/assets/893b1c13-f837-46a3-8bcc-4d4cd7ccfe8c" width=250/>
 <img src = "https://github.com/user-attachments/assets/292c8ffd-2e99-46b5-8abc-06109fbab5dc" width=250/>
-<img src = "https://github.com/user-attachments/assets/02e67446-9136-4cdd-add0-a9e6734b4e9f" width=250/>
-<img src = "https://github.com/user-attachments/assets/2fb7e2e1-1ca3-478f-b57a-9b2a58c63025" width=250/>
+<img src = "https://github.com/user-attachments/assets/0d677d08-edeb-459b-b629-4a69d24edce1" width=250/>
+<img src = "https://github.com/user-attachments/assets/9a61139d-f93e-4b22-a3f8-f26be86b69f7" width=250/>
